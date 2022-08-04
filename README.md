@@ -1,7 +1,7 @@
 ## [Google Drive](https://drive.google.com/file/d/1JHfPB2QXZWDCucQVNNOhNa42nrOi2I0b/view?usp=sharing "Скачать с Google Drive")
 <br/>
 
-## [MediaFire](https://www.mediafire.com/file/s9538yv7g4fcmz9/ni_by_DarhangeR.zip/file "Скачать с MediaFire")
+## [MediaFire](https://www.mediafire.com/file/g2yogck5qf8nx06/ni_by_DarhangeR.zip/file "Скачать с MediaFire")
 <br/> 
 
 ## [Яндекс](https://disk.yandex.ru/d/V22ipRvT56xqdQ "Скачать с ЯндексДиска")
