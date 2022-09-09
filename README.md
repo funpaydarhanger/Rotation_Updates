@@ -4,8 +4,6 @@
 ## [MediaFire](https://www.mediafire.com/file/g2yogck5qf8nx06/ni_by_DarhangeR.zip/file "Скачать с MediaFire")
 <br/> 
 
-## [Яндекс](https://disk.yandex.ru/d/V22ipRvT56xqdQ "Скачать с ЯндексДиска")
-
 <br/><br/><br/>
   
 [![Discord Server](https://img.shields.io/badge/Discord-7289DA?style=flat-squaree&logo=discord&logoColor=black&color=white)](https://discord.gg/xBFKJc6QRr)
