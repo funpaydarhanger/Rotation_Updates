@@ -1,5 +1,3 @@
-## [Google Drive](https://drive.google.com/file/d/1-YQKp9-OTJVkU3Ehq8dNOQVgcE7IC9Ap/ "Скачать с Google Drive")
-<br/>
 
 ## [MediaFire](https://www.mediafire.com/file/g2yogck5qf8nx06/ni_by_DarhangeR.zip/file "Скачать с MediaFire")
 <br/> 
