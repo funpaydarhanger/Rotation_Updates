@@ -1,8 +1,8 @@
 
-## [MediaFire](https://www.mediafire.com/file/cxxpnrvxcp4cxmz/ni_by_DarhangeR.zip/file "Скачать с MediaFire")
+## [MediaFire (Скачать/Download)](https://www.mediafire.com/file/cxxpnrvxcp4cxmz/ni_by_DarhangeR.zip/file "Скачать с MediaFire")
 <br/> 
 
-<br/><br/><br/>
+<br/>
   
 [![Discord Server](https://img.shields.io/badge/Discord-7289DA?style=flat-squaree&logo=discord&logoColor=black&color=white)](https://discord.gg/xBFKJc6QRr)
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=flat-squaree&logo=messenger&logoColor=black&color=white)](http://m.me/darhanger)
