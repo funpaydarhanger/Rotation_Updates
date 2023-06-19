@@ -1,7 +1,6 @@
 
 ## [MediaFire (Скачать/Download)](https://www.mediafire.com/file/x28w46ed7wp9xii/ni_by_DarhangeR.zip/file "Скачать с MediaFire")
 <br/> 
-
 Последнее обновление - 20/06/2023
 <br/>
 Last Update - 06/20/2023
