@@ -4,5 +4,5 @@
 @import "{{ site.theme }}";
 
 .zip_download_link {
-  margin-left: 10px;
+  margin-left: $site.theme.margin-left;
 }
