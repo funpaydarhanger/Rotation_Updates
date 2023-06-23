@@ -1,6 +1,6 @@
-@import "{{ site.theme }}";
+@import "{{ jekyll-theme-slate }}";
 
-#downloads {
+.download {
   .zip_download_link {
     margin-left: 10px;
   }
