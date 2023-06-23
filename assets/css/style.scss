@@ -1,5 +1,7 @@
 @import "{{ site.theme }}";
 
-.zip_download_link {
-  margin-left: 10px;
+.download {
+  .zip_download_link {
+    margin-left: 10px;
+  }
 }
