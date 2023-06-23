@@ -6,7 +6,5 @@ theme: jekyll-theme-slate
 # Author Variable
 show_downloads: true
 github:
-  github_username: darhanger
   show_github_button: false
   zip_url: https://www.mediafire.com/file/x28w46ed7wp9xii/ni_by_DarhangeR.zip/file
-  tar_url: https://www.mediafire.com/file/x28w46ed7wp9xii/ni_by_DarhangeR.zip/file

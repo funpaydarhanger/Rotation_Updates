@@ -1,6 +1,8 @@
 ---
 ---
 
-$zip_download_link: 10px;
-
 @import "{{ site.theme }}";
+
+.zip_download_link {
+  margin-left: 10px;
+}
