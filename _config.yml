@@ -1,6 +1,8 @@
 # Title
 title: DarhangeR Rotations
-  
+description: Страница обновлений / Update page  
 # Theme variables
 theme: jekyll-theme-slate
-  color: blue
+logo: https://github.com/darhanger/darhanger/raw/master/Assets/DarhangeR_GIT.png
+# Author Variable
+github_username: darhanger
