@@ -1,2 +1,6 @@
-theme: jekyll-theme-slate
+# Title
 title: DarhangeR Rotations
+  
+# Theme variables
+theme: jekyll-theme-slate
+  color: blue
