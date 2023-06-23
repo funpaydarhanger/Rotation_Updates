@@ -6,10 +6,7 @@
 
 **Last Update - 06/20/2023**
 <br/><br/>
-  
-[![Discord Server](https://img.shields.io/discord/396973077478768653?style=flat-squeree&logo=discord&logoColor=white&label=DarhangeR%20Rotations&labelColor=black&color=gray&cacheSeconds=3650)](https://discord.gg/xBFKJc6QRr)
-[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=flat-squaree&logo=messenger&logoColor=white&color=black)](http://m.me/darhanger)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-squaree&logo=instagram&logoColor=white&color=black)](https://www.instagram.com/darhanger/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squaree&logo=telegram&logoColor=white&color=black)](http://t.me/darhanger)
+
+[![Contact With Me](https://img.shields.io/badge/Contact%20With%20Me-orange?style=flat-squaree&logo=googlemessages&logoColor=white&labelColor=black&color=black&cacheSeconds=3650&link=https%3A%2F%2Fallmylinks.com%2Fdarhanger)](https://allmylinks.com/darhanger)
 [![GitHub Followers](https://img.shields.io/github/followers/darhanger?label=Follow&style=flat-squaree&logo=github&labelColor=black&color=black&cacheSeconds=5)](https://github.com/darhanger)
-[![Twitter Follow](https://img.shields.io/twitter/follow/darhanger?style=flat-squaree&logo=Twitter&logoColor=white&labelColor=black&color=black)](https://twitter.com/intent/follow?screen_name=darhanger)
+[![Discord Server](https://img.shields.io/discord/396973077478768653?style=flat-squeree&logo=discord&logoColor=white&label=DarhangeR%20Rotations%20Server&labelColor=black&color=gray&cacheSeconds=3650)](https://discord.gg/xBFKJc6QRr)
