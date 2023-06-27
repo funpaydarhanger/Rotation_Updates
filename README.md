@@ -1,7 +1,3 @@
-<p align="center">
-	<img src="_includes/DarhangeR_GIT.png" width="750" height="300" alt="DarhangeR Rotations">
-</p>
-
 **Последнее обновление - 20/06/2023**
 <br/>
 
