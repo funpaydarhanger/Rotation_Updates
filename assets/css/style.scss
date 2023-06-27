@@ -2,3 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
+
+#downloads {
+  position: absolute;
+  width: 210px;
+  z-index: 10;
+  bottom: -70px;
+  right: 20px;
+  height: 70px;
+  background: url('../images/icon_download.png') no-repeat 50% 90%;
+}
