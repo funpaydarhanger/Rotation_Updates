@@ -24,20 +24,6 @@
   margin-left: 10px;
 }
 
-.tar_download_link {
-  display: block;
-  float: right;
-  width: 99px;
-  height:77px;
-  text-indent: -5000px;
-  overflow: hidden;
-  background: url(../images/sprite_download.png) no-repeat bottom left;
-}
-
 .zip_download_link:hover {
   background: url(../images/sprite_download.png) no-repeat top right;
-}
-
-.tar_download_link:hover {
-  background: url(../images/sprite_download.png) no-repeat top left;
 }
