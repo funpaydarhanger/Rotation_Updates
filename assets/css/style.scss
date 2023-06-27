@@ -13,17 +13,31 @@
   background: url('../images/icon_download.png') no-repeat 0% 90%;
 }
 
-.zip_link {
+.zip_download_link {
   display: block;
   float: right;
-  width: 90px;
-  height:70px;
+  width: 99px;
+  height:77px;
   text-indent: -5000px;
   overflow: hidden;
   background: url(../images/sprite_download.png) no-repeat bottom right;
   margin-left: 10px;
 }
 
-.zip_link:hover {
+.tar_download_link {
+  display: block;
+  float: right;
+  width: 99px;
+  height:77px;
+  text-indent: -5000px;
+  overflow: hidden;
+  background: url(../images/sprite_download.png) no-repeat bottom left;
+}
+
+.zip_download_link:hover {
   background: url(../images/sprite_download.png) no-repeat top right;
+}
+
+.tar_download_link:hover {
+  background: url(../images/sprite_download.png) no-repeat top left;
 }
