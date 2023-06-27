@@ -33,14 +33,18 @@
   </div>
 
   <!-- FOOTER  -->
-  <div id="footer_wrap" class="outer">
-    <footer class="inner">
-      {% if site.github.is_project_page %}
-      <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by 
-	  <a href="https://github.com/darhanger/">DarhangeR</a>All Rights Reserved © 2023</p>
-      {% endif %}
-    </footer>
-  </div>
+<div id="footer_wrap" class="outer">
+	<footer class="inner">
+    {% if site.github.is_project_page %}
+		<p class="copyright">
+		{{ site.title | default: site.github.repository_name }} maintained by 
+		<a href="https://github.com/darhanger/">DarhangeR</a>.
+			All Rights Reserved © 2023
+		</p>
+		{% endif %}
+		</footer>
+	</div>
 </body>
+
 
 </html>
